@@ -1,8 +1,0 @@
-{
-  "name": "moodfilm",
-  "version": "1.0.0",
-  "description": "AI-Powered Mood Based Movie Recommender",
-  "scripts": {
-    "start": "node api/server.js"
-  }
-}
